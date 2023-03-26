@@ -5,7 +5,9 @@
     <version>3.1.1-SNAPSHOT</version>
     <name>Modbus4j Library</name>
     <properties>
-      <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    	<sonar.organization>findorgri</sonar.organization>
+    	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <build>
         <sourceDirectory>src</sourceDirectory>
